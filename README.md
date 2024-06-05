@@ -1,7 +1,7 @@
 ### Hello, my name is Victor Martins! 🕺
 
-- 📫 I'm currently studying: HTML, CSS.
-- ⚡ I know C++ (Advanced), HTML, and CSS (Basic).
+- 📫 I'm currently studying: Bootstrap CSS.
+- ⚡ I know C++ (Advanced), Python (Basic), JavaScript (Basic) and HTML & CSS .
 -->
 
 <img alt = "my stats" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=EmperorOfCoding&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
