@@ -2,6 +2,7 @@
 
 - 📫 I'm currently studying: React.js.
 - ⚡ I know C++, Python, JavaScript, HTML & CSS, MySQL, Bootstrap CSS.
+- My main dominating field is Python
 -->
 
 <img alt = "my stats" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=EmperorOfCoding&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
