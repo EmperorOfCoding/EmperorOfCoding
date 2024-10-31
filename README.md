@@ -1,7 +1,8 @@
 ### Hello, my name is Victor Martins! 🕺
 
-- 📫 I'm currently studying: React.js.
-- ⚡ I know C++, Python, JavaScript, HTML & CSS, MySQL, Bootstrap CSS.
+- 📫 I'm currently studying: Python Back-end development, Leetcode.
+- ⚡ Knowledge: C++, Python, JavaScript, HTML & CSS, Bootstrap CSS, React, MySQL, PostgreSQL, Git.
+- 👻 Tools I use: Wordpress, Premiere Pro, Docker, Dbeaver, Github, Figma. 
 - My main dominating field is Python
 -->
 
