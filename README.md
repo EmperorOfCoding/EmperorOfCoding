@@ -1,9 +1,9 @@
 ### Hello, my name is Victor Martins! 🕺
 
-- 📫 I'm currently studying: Python Back-end development, Leetcode.
-- ⚡ Knowledge: C++, Python, JavaScript, HTML & CSS, Bootstrap CSS, React, MySQL, PostgreSQL, Git.
+- 📫 I'm currently studying: React, Express.js.
+- ⚡ Knowledge: C++, Python, JavaScript, Node.js, HTML & CSS, Bootstrap CSS, MySQL, PostgreSQL, Git, ServiceNow.
 - 👻 Tools I use: Wordpress, Premiere Pro, Docker, Dbeaver, Github, Figma. 
-- My main dominating field is Python
+- My main dominating field is Full Stack development (MERN Stack)
 -->
 
 <img alt = "my stats" align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=EmperorOfCoding&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
